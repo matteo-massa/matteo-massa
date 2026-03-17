@@ -18,18 +18,8 @@ I am a Data Analyst specialized in transforming raw data into measurable operati
 
 ### Featured Projects
 
-* **FinTech War Room: Competitor Intelligence System**
-Competitive intelligence system comparing traditional and digital bank reviews in real-time. The project identifies technical bugs, analyzes sentiment trends, and estimates revenue loss resulting from service disruptions.
-
 * **Italian Banks Sentiment Analysis**
 Analysis pipeline on over 78,000 real reviews from the Google Play Store. It uses NLP models (BERT and spaCy) to classify text and isolate issues, feeding a MySQL Data Warehouse and a four-page Power BI dashboard. During the Python database exploration phase, the 'neutral' sentiment category was deliberately filtered out to eliminate noise and maintain strict focus on actionable insights.
-
-### GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
 
 ### Contact
 
