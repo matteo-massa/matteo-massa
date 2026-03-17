@@ -1,5 +1,5 @@
 ## Hi there 👋
-<!--# Hi, I'm Matteo Massa
+ Hi, I'm Matteo Massa
 
 ## Data Analyst | Extracting strategic value from data
 
@@ -35,5 +35,5 @@ Analysis pipeline on over 78,000 real reviews from the Google Play Store. It use
 
 <a href="https://www.linkedin.com/in/matteo-massa-6a2372397">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+
 
