@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--# Hi, I'm Matteo Massa
 
 ## Data Analyst | Extracting strategic value from data
